@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/VSCode/qianshuyu_hw1/build",
+  "command": "E:\\c++\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/algebra.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\algebra.dir\\src\\algebra.c.obj -c E:\\VSCode\\qianshuyu_hw1\\src\\algebra.c",
+  "file": "E:/VSCode/qianshuyu_hw1/src/algebra.c",
+  "output": "CMakeFiles/algebra.dir/src/algebra.c.obj"
+},
+{
+  "directory": "E:/VSCode/qianshuyu_hw1/build",
+  "command": "E:\\c++\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/algebra.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\algebra.dir\\src\\main.c.obj -c E:\\VSCode\\qianshuyu_hw1\\src\\main.c",
+  "file": "E:/VSCode/qianshuyu_hw1/src/main.c",
+  "output": "CMakeFiles/algebra.dir/src/main.c.obj"
+}
+]
